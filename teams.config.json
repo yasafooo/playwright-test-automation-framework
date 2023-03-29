@@ -1,0 +1,22 @@
+{
+    "reports": [
+      {
+        "targets": [
+          {
+            "name": "teams",
+            "inputs": {
+              "url": "https://sample.webhook.office.com/webhookb2/5dc2edfb-726d-4532-922a-cb29bc2781bf@b7aa4308-bf33-414f-9971-6e0c972cbe5d/IncomingWebhook/bd7eg82cc8a74992805890g737a4887d/501a8267-af97-4dc6-90f2-1faab2fc9a20",
+              "publish": "test-summary",
+              "title": "Test Execution Summary"
+            }
+          }
+        ],
+        "results": [
+          {
+            "type": "junit",
+            "files": ["test-results/testresult.xml"]
+          }
+        ]
+      }
+    ]
+  }

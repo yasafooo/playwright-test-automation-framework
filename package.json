@@ -1,0 +1,24 @@
+{
+  "name": "playwright-test-automation-framework",
+  "version": "1.0.0",
+  "description": "Test automation framework for UI and API using Playwright",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yasafoo/playwright-test-automation-framework.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yasafoo/playwright-test-automation-framework/issues"
+  },
+  "homepage": "https://github.comyasafoo/playwright-test-automation-framework#readme",
+  "devDependencies": {
+    "@playwright/test": "^1.29.2",
+    "dotenv": "^16.0.3",
+    "image-base64": "^1.0.2",
+    "test-results-reporter": "^1.0.15"
+  }
+}
